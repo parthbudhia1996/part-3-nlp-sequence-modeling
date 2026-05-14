@@ -1,0 +1,3 @@
+Text: 'I am very unhappy with the delayed service.' -> Predicted Sentiment: positive
+Text: 'The refund process was fast and convenient.' -> Predicted Sentiment: positive
+Text: 'I need information about my account.' -> Predicted Sentiment: neutral
